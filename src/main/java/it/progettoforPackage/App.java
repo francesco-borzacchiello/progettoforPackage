@@ -23,7 +23,7 @@ public class App extends Application {
     }
 
     /**
-     * documentazione 123
+     * documentazione 123 - 456
      * @param fxml
      * @throws IOException
      */
